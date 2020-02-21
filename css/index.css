@@ -1,0 +1,11 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.custom-nav {
+    background-color: #001f5b !important;
+}
+
+.nav-text li a {
+    color: white !important;
+}
